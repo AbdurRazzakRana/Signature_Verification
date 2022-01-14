@@ -1,4 +1,4 @@
-# Signature_Detection
+# Signature Verification
 
 Prerequisite: 
 Tensorflow installed.
